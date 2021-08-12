@@ -10,7 +10,7 @@ The model determining each memristive unit's behaviour has been adapted from pre
 
 This code has been used to generate data for the manuscript
 
-> F. Di Francesco, G.A. Sanca, and C.P. Quinteros. 'Spatial emerging texture in simulated memristive arrays'. ArXiV 
+> F. Di Francesco, G.A. Sanca, and C.P. Quinteros. 'Spatial emerging texture in simulated memristive arrays'. https://arxiv.org/submit/3880033
 
 *Although arbitrary sizes are allowed, the simulation is not optimized for big sizes (N>50) making the code time-consuming. 
 Further versions will deal with this issue. 
