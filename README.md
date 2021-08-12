@@ -16,7 +16,8 @@ This code has been used to generate data for the manuscript
 Further versions will deal with this issue. 
 
 ## Requirements
-Python 3 is used to set the array. NGSPICE is the engine required for individual unit's simulation. 
+Python 3 is used to set the array. Numpy and Pandas packages are required.
+NGSPICE is the engine required for individual unit's simulation. 
 
 ## Getting started
 Download the full repository and make sure NGSPICE is path-available (callable from Python scripts). 
